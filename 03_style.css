@@ -1,0 +1,33 @@
+/*#one{
+    height: normal;
+    width: 200px;
+    background-color: pink;
+    /* border-width: 2px;
+    border-color: rgb(37, 2, 131);
+    border-style: solid;*/
+   /* border: 2px blue solid;
+}  */
+
+h1{
+    height: 50px;
+    width: 150px;
+    background: green;
+    border-width: 3px;
+    border-style: dotted;
+    text-align: center;
+}
+
+div{
+    border: 2px blue solid;
+    height: 50px;
+    width: 100px;
+    background-color: pink;
+    /* border-radius: 15px; */
+    padding-left: 25px;
+    padding-top: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+

@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 100px;
+    background: pink;
+    border: black solid 2px ;
+    /* transition: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(3);
+    transition-delay: 1s; */
+    transition: all 2s ease-in 1s;
+}
+
+div:hover{
+    background: red;
+    color: blue;
+    font-size: 20px;
+}
+
+div:active{
+    background: green;
+}

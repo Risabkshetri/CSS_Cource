@@ -1,0 +1,28 @@
+div{
+    
+    height: 100px;
+    width: 100px;
+    background: pink;
+    border: black solid 2px ;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    transform: rotate(45deg);
+    transform: scale(1);
+    transition: all 3s ease-in;
+    transform: translatey(200px);
+   
+}
+
+div:hover{
+    /* background: red;
+    color: blue;
+    font-size: 20px; */
+    /* transform: scaleY(2); */
+    /* transform: rotate(360); */
+     transform: skewY(45deg);
+}
+
+div:active{
+    background: green;
+}

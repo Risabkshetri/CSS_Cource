@@ -1,0 +1,42 @@
+h1{
+    color:brown;
+    text-align: center;
+    text-decoration: black underline;
+}
+
+p{
+    color:rgb(35, 35, 184);
+    text-align: left;
+}
+
+button{
+    color:darkolivegreen;
+    background: plum;
+}
+
+body{
+    background: rgb(248, 245, 245);
+}
+
+a{
+    text-decoration: underline;
+}
+
+#a{
+    font-weight: normal;
+}
+#b{
+    font-weight: bolder;
+}
+
+c{
+    font-weight: bold;
+}
+
+#one{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#two{
+    font-family: fantasy;
+}
