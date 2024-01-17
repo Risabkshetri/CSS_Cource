@@ -1,0 +1,33 @@
+ul{
+    background: rgb(10, 1, 3);
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+
+#box1{
+    height: 200px;
+    width: 200px;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    background: rgb(0, 0, 7);
+    border: 2px solid red;
+    border-radius: 50%;
+}

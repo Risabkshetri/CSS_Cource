@@ -1,0 +1,19 @@
+.heading{
+    color:red;
+}
+
+/* button{
+    background-color:green;
+} */
+
+#box{
+    background: blue;
+    color:white;
+}
+#1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+}

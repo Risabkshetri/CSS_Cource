@@ -1,0 +1,29 @@
+div{ 
+  height: 100px;
+  width: 100px;
+  background: rebeccapurple;
+}
+
+@media(max-width:300px){
+    div{
+        background: green;
+    }
+}
+
+@media(min-width:300px) and (max-width:400px){
+    div{
+        background: pink;
+    }
+}
+
+@media(min-width:400px) and (max-width:600px){
+    div{
+        background: red;
+    }
+}
+
+@media(min-width:600px){
+    div{
+        background: blue;
+    }
+}
